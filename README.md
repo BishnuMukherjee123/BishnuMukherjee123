@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=220&section=header&text=Bishnu%20Mukherjee&fontSize=85&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=220&section=header&text=Bishnu%20Mukherjee&fontSize=85&fontColor=00f2ff&fontAlignY=45&animation=fadeIn" width="100%"/>
 
 <br/>
 
-### ⚡️ SOFTWARE ARCHITECT // FULL-STACK ENGINEER // MERN
-**HIGH-PERFORMANCE APPLICATIONS • SCALABLE SYSTEMS • CLEAN ARCHITECTURE**
+### ⚡️ [ SYSTEM_INIT: FULL_STACK_ENGINEER ] ⚡️
+**ARCHITECTURE // SCALABILITY // MERN STACK**
 
 ---
 
@@ -23,11 +23,11 @@
   <tr>
     <td width="55%" valign="top" style="border: none;">
 
-### 01 // CORE_INTEL
+### 01 // IDENTITY_ROOT
 - **BASE** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Durgapur, West Bengal`
 - **FOCUS** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Distributed Systems & MERN`
 - **PASSION** &nbsp;&nbsp;&nbsp;&nbsp; `Clean Code & Scalability`
-- **STATUS** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `🟢 Available for Opportunities`
+- **STATUS** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `🟢 Available for Innovation`
 
 <br/>
 
@@ -63,7 +63,7 @@
 
 ---
 
-### 04 // SYSTEM_STATS
+### 04 // DIAGNOSTICS
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BishnuMukherjee123&show_icons=true&theme=transparent&hide_border=true&title_color=00f2ff&icon_color=00f2ff&text_color=ffffff&bg_color=00000000" width="48%" />
@@ -74,7 +74,7 @@
 
 <div align="center">
 
-### 05 // CONNECT_STRAND
+### 05 // UPLINK_CHANNELS
 
 <a href="https://linkedin.com/in/bishnu-mukherjee-a235a621a"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/BishnuMukherjee123"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
