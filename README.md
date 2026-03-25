@@ -1,90 +1,79 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=220&section=header&text=Bishnu%20Mukherjee&fontSize=80&fontColor=00f2ff&animation=fadeIn&fontAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=BISHNU%20MUKHERJEE&fontSize=80&fontColor=00FF41&animation=twinkling&fontAlignY=45" width="100%"/>
 
-### ⚡️ FULL-STACK ENGINEER // MERN SPECIALIST // UI/UX ENTHUSIAST
+### ⚡️ [ STATUS: ARCHITECTING THE FUTURE ] ⚡️
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00f2ff&center=true&vCenter=true&width=600&lines=System.out.print(%22Hello+World%22);Developing+Scalable+Ecosystems;TypeScript+%7B+Type+Safety+%7D;Mastering+Modern+Architectures" />
-
----
-
-</div>
-
-<div align="center">
-
-### 🌌 T E C H · S T A C K
-
-![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=INIT+FULL_STACK_PROTOCOL...;LOADING+MERN+MODULES...;ENCRYPTING+CLEAN_CODE...;SUCCESS:+INNOVATION+READY)](https://git.io/typing-svg)
 
 ---
 
-<table border="0">
- <tr>
-  <td width="55%" align="left">
-
-### 📂 Root Directory
-- **Current\_Focus**: `Scalable Microservices`
-- **Location**: `Durgapur, West Bengal`
-- **Status**: `🟢 Active & Recruiting`
-- **Passion**: `Clean Code & UX`
-
-> *"I don't just write code; I build digital experiences that solve real-world problems."*
-
-  </td>
-  <td width="45%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BishnuMukherjee123&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=00f2ff&text_color=ffffff" width="100%"/>
-
-  </td>
- </tr>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🚀 CORE_SYSTEM_SPECS</h3>
+      <img src="https://img.shields.io/badge/ROLE-SENIOR%20DEV-00FF41?style=for-the-badge&logoColor=black" />
+      <img src="https://img.shields.io/badge/LOC-WEST%20BENGAL-00FF41?style=for-the-badge&logoColor=black" />
+      <br/><br/>
+      <p align="left">
+        <strong>Expertise:</strong> Scaling MERN applications with a focus on high-concurrency and sub-second latency. <br/>
+        <strong>Philosophy:</strong> <code>If (code.isMessy()) { refactor(code); }</code>
+      </p>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BishnuMukherjee123&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=00FF41&text_color=ffffff" width="100%"/>
+    </td>
+    <td width="45%" align="right">
+      <img src="https://github-readme-stats.vercel.app/api?username=BishnuMukherjee123&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=00FF41&icon_color=00FF41&text_color=ffffff" width="100%"/>
+    </td>
+  </tr>
 </table>
 
 ---
 
-### 🚀 High-Impact Deployments
+### 📂 CLASSIFIED_PROJECTS.exe
 
 <div align="center">
 
-| Project | Live Links / Repos | Tech Stack |
-| :--- | :--- | :--- |
-| **Talent-IQ** | [Repo](https://github.com/BishnuMukherjee123/Talent-IQ-MERN) | `MERN` `Socket.io` |
-| **Portfolio-Dazzle** | [Demo](https://github.com/BishnuMukherjee123/Portfolio-DAZZLE) | `React` `Framer Motion` |
-| **Echo-Pro** | [Source](https://github.com/BishnuMukherjee123/echo-pro) | `TypeScript` `Audio API` |
-| **Real-Time Chat** | [Vercel](https://github.com/BishnuMukherjee123/chat-project) | `Node.js` `Express` |
+| PROJECT | MISSION TYPE | TECH STACK | LINK |
+| :--- | :--- | :--- | :--- |
+| **TALENT-IQ** | `AI INTERVIEW` | `MERN` + `WebRTC` | [📡 ACCESS](https://github.com/BishnuMukherjee123/Talent-IQ-MERN) |
+| **PORTFOLIO** | `UX SHOWCASE` | `REACT` + `GSAP` | [🎨 VIEW](https://github.com/BishnuMukherjee123/Portfolio-DAZZLE) |
+| **ECHO-PRO** | `AUDIO ENGINE` | `TYPESCRIPT` | [🔊 LISTEN](https://github.com/BishnuMukherjee123/echo-pro) |
+| **CHAT-APP** | `REALTIME` | `SOCKET.IO` | [💬 JOIN](https://github.com/BishnuMukherjee123/chat-project) |
 
 </div>
 
 ---
 
-### 📡 System Diagnostics
+### 🛠️ ARSENAL_LOADOUT
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=BishnuMukherjee123&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=00f2ff&icon_color=00f2ff&text_color=ffffff&rank_icon=github" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BishnuMukherjee123&theme=vision-friendly-dark&hide_border=true&background=0D1117&ring=00f2ff&fire=00f2ff&currStreakLabel=00f2ff" width="48%" />
-
+  <code><img height="45" src="https://user-images.githubusercontent.com/25181517/117447155-6a868d00-af3d-11eb-9cfe-245df88c9e3e.png" alt="JavaScript" title="JavaScript" /></code>
+  <code><img height="45" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac54-e69a-459e-a304-3a5d52172c11.png" alt="TypeScript" title="TypeScript" /></code>
+  <code><img height="45" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92997c64e5.png" alt="React" title="React" /></code>
+  <code><img height="45" src="https://user-images.githubusercontent.com/25181517/183592731-7430f1ee-cd03-42a3-8003-9d615f094430.png" alt="Node.js" title="Node.js" /></code>
+  <code><img height="45" src="https://user-images.githubusercontent.com/25181517/182884158-31211bc1-c73d-4cc2-8946-9a2955a15383.png" alt="MongoDB" title="MongoDB" /></code>
+  <code><img height="45" src="https://user-images.githubusercontent.com/25181517/117448611-0d157380-af40-11eb-88e0-28020a77f729.png" alt="Postman" title="Postman" /></code>
 </div>
+
+---
+
+### 📈 ACTIVITY_STREAM
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BishnuMukherjee123&theme=github-compact&bg_color=000000&color=00FF41&line=00FF41&point=ffffff&hide_border=true&area=true" width="100%"/>
 
 ---
 
 <div align="center">
 
-### 🛰️ Galactic Coordinates
+### 🛰️ GLOBAL_UPLINK
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bishnu-mukherjee-a235a621a)
-[![Twitter](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/BishnuMukherj11)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/bishnu_mukherjee7)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/bishnu-mukherjee-a235a621a) 
+[![Twitter](https://img.shields.io/badge/TWITTER-00FF41?style=for-the-badge&logo=x&logoColor=black)](https://twitter.com/BishnuMukherj11)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-00FF41?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/bishnu_mukherjee7)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00f2ff&height=2&section=footer" width="100%"/>
-<p align="center"><i>Transmitting from Durgapur... 🚀</i></p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=footer" width="100%"/>
+<sub>**SECURE TERMINAL ACTIVE // 2026**</sub>
 
 </div>
