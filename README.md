@@ -1,40 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=Bishnu%20Mukherjee&fontSize=90&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=220&section=header&text=Bishnu%20Mukherjee&fontSize=85&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
 
 <br/>
 
-### 🛠️ FULL-STACK ENGINEER & SYSTEM ARCHITECT
-**MERN • TYPESCRIPT • SYSTEM DESIGN**
+### ⚡️ SOFTWARE ARCHITECT // FULL-STACK ENGINEER // MERN
+**HIGH-PERFORMANCE APPLICATIONS • SCALABLE SYSTEMS • CLEAN ARCHITECTURE**
 
 ---
 
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=20&duration=2000&pause=500&color=ffffff&center=true&vCenter=true&width=600&lines=Building+Reliable+Web+Infrastructure;Optimizing+Runtime+Performance;Crafting+Exceptional+User+Experiences" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=22&duration=2500&pause=500&color=00f2ff&center=true&vCenter=true&width=600&lines=Building+Reliable+Web+Infrastructure;Optimizing+Full-Stack+Performance;Crafting+Exceptional+User+Experiences;Turning+Complex+Logic+into+Simple+UX)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-<table align="center" style="border: none;">
+<table align="center" style="border: none; border-collapse: collapse;">
   <tr>
-    <td width="50%" valign="top">
+    <td width="55%" valign="top" style="border: none;">
 
-### 01 // IDENTITY
-- **Base** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `West Bengal, IN`
-- **Focus** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Distributed Systems`
-- **Current** &nbsp;&nbsp;&nbsp;&nbsp; `Full-Stack Development`
-- **Availability** `Open to Innovation`
+### 01 // CORE_INTEL
+- **BASE** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Durgapur, West Bengal`
+- **FOCUS** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Distributed Systems & MERN`
+- **PASSION** &nbsp;&nbsp;&nbsp;&nbsp; `Clean Code & Scalability`
+- **STATUS** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `🟢 Available for Opportunities`
+
+<br/>
+
+> *"I don't just write code; I engineer digital solutions that solve real-world problems with elegance and precision."*
 
     </td>
-    <td width="50%" valign="top">
+    <td width="45%" valign="top" style="border: none;">
 
-### 02 // STACK_OVERVIEW
-- **Languages** &nbsp;&nbsp; `TypeScript, JavaScript, C++`
-- **Frontend** &nbsp;&nbsp;&nbsp; `React, Next.js, Tailwind`
-- **Backend** &nbsp;&nbsp;&nbsp;&nbsp; `Node, Express, FastAPI`
-- **Database** &nbsp;&nbsp;&nbsp; `MongoDB, PostgreSQL`
+### 02 // TECH_ARSENAL
+- **LANGUAGES** &nbsp; `TypeScript, JavaScript, C++`
+- **FRONTEND** &nbsp;&nbsp; `React, Next.js, Tailwind`
+- **BACKEND** &nbsp;&nbsp;&nbsp; `Node, Express, FastAPI`
+- **DATABASE** &nbsp;&nbsp; `MongoDB, PostgreSQL`
 
     </td>
   </tr>
@@ -42,39 +48,42 @@
 
 ---
 
-### 03 // TECHNICAL_VELOCITY
+### 03 // PROJECT_LOG
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BishnuMukherjee123&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BishnuMukherjee123&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=00000000" width="45%" />
+
+| MISSION | OBJECTIVE | STACK | STATUS |
+| :--- | :--- | :--- | :---: |
+| [**Talent-IQ**](https://github.com/BishnuMukherjee123/Talent-IQ-MERN) | Code & Video Interview Platform | `MERN` `WebRTC` | [DEPLOYED] |
+| [**Portfolio**](https://github.com/BishnuMukherjee123/Portfolio-DAZZLE) | Visual Identity & UX Showcase | `TypeScript` | [LIVE] |
+| [**Echo-Pro**](https://github.com/BishnuMukherjee123/echo-pro) | Advanced Audio Engineering | `TypeScript` | [STABLE] |
+| [**Chat-X**](https://github.com/BishnuMukherjee123/chat-project) | Real-time Communication Hub | `Socket.io` | [V2.0] |
+
 </div>
 
 ---
 
-### 04 // SHIP_LOG (FEATURED)
+### 04 // SYSTEM_STATS
 
-<br/>
-
-| PROJECT | ROLE | STACK | SOURCE |
-| :--- | :--- | :--- | :--- |
-| **Talent-IQ** | Lead Architect | `MERN` `WebRTC` | [↗](https://github.com/BishnuMukherjee123/Talent-IQ-MERN) |
-| **Dazzle-UI** | UI Designer | `React` `Framer` | [↗](https://github.com/BishnuMukherjee123/Portfolio-DAZZLE) |
-| **Echo-Pro** | Backend Dev | `TypeScript` | [↗](https://github.com/BishnuMukherjee123/echo-pro) |
-| **Comm-Link** | Real-time Eng | `Socket.io` | [↗](https://github.com/BishnuMukherjee123/chat-project) |
-
-<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BishnuMukherjee123&show_icons=true&theme=transparent&hide_border=true&title_color=00f2ff&icon_color=00f2ff&text_color=ffffff&bg_color=00000000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BishnuMukherjee123&layout=compact&theme=transparent&hide_border=true&title_color=00f2ff&text_color=ffffff&bg_color=00000000" width="45%" />
+</div>
 
 ---
 
-### 05 // CONNECT
-
 <div align="center">
 
-[**LINKEDIN**](https://linkedin.com/in/bishnu-mukherjee-a235a621a) &nbsp; • &nbsp; [**TWITTER / X**](https://twitter.com/BishnuMukherj11) &nbsp; • &nbsp; [**INSTAGRAM**](https://www.instagram.com/bishnu_mukherjee7) &nbsp; • &nbsp; [**GITHUB**](https://github.com/BishnuMukherjee123)
+### 05 // CONNECT_STRAND
+
+<a href="https://linkedin.com/in/bishnu-mukherjee-a235a621a"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/BishnuMukherjee123"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://twitter.com/BishnuMukherj11"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
 <br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2&section=footer" width="100%"/>
-<sub>*REFINED CODE. RELIABLE SYSTEMS. 2026*</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00f2ff&height=2&section=footer" width="100%"/>
+<sub>**EST. 2026 // TRANSMITTING FROM THE MERN UNIVERSE**</sub>
 
 </div>
