@@ -21,15 +21,12 @@
 
 🌟 **Began the Journey with Software Development building Full-Stack applications.**
 
-🌘 I work on Front-end development and web designing, while focusing heavily on Backend Architecture and APIs.
-
-🌱 I am currently diving deep into **TypeScript and Advanced React patterns**.
-
-🚀 I have hands-on experience building complex platforms using the **MERN Stack (MongoDB, Express, React, Node.js)**.
-
-💬 Ask me about **JavaScript, Real-Time WebSockets, System Architecture, and UI/UX**.
-
-⚡ Fun fact: **I debug with `console.log` 😄 and I only like perfection.**
+* 🌟 **GENESIS:** Started the journey by engineering high-performance web applications.
+* 🌘 **FRONTEND:** Crafting pixel-perfect UIs with **React & Tailwind CSS**.
+* ⚙️ **BACKEND:** Architecting robust APIs using **Node.js, Express, and MongoDB**.
+* 🌱 **EVOLUTION:** Currently mastering **TypeScript** for type-safe ecosystem development.
+* 💬 **INTEL:** Ask me about **WebSockets, MERN, or System Design**.
+* ⚡ **REALITY:** I debug with `console.log` and strive for pixel perfection.
 
 <br clear="both"/>
 
