@@ -76,39 +76,6 @@
 <table align="center" style="border: none; background-color: transparent;">
   <tr>
     <td width="50%" align="center" valign="top" style="border: none;"></tr>
-      
-### ⭐ Top Contributed Repo
-
-<a href="https://github.com/BishnuMukherjee123/Talent-IQ-MERN">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BishnuMukherjee123&repo=Talent-IQ-MERN&theme=vision-friendly-dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9" width="350" />
-</a><br/>
-<a href="https://github.com/BishnuMukherjee123/Portfolio-DAZZLE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BishnuMukherjee123&repo=Portfolio-DAZZLE&theme=vision-friendly-dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9" width="350" />
-</a>
-
-    </td>
-    <td width="50%" align="center" valign="top" style="border: none;">
-
-### 🎨 Random Dev Quote
-
-<br/>
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=vision-friendly-dark" alt="Random Dev Quote" width="350" />
-
-<br/><br/>
-
-### ☕ Support Me
-
-<a href="https://www.buymeacoffee.com/BishnuMukherjee123" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;" >
-</a>
-
-    </td>
   </tr>
 </table>
 
-<br/>
-<br/>
-
-<img src="https://i.pinimg.com/originals/82/72/78/82727877207c4bc11bf4a01c40f28e93.gif" width="100%" alt="Footer Banner" />
-
-</div>
