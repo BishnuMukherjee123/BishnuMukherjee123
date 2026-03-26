@@ -1,42 +1,41 @@
 <div align="center">
 
-  <img src="https://i.pinimg.com/originals/7d/50/e0/7d50e05ba8c6a06cc37ea92fc89d5a0c.gif" width="100%" alt="Header Banner" />
-  <br/>
-  
-  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="35px"> Bishnu Mukherjee here 🔥 !</h1>
-  <h3>Namaste 🙏 I'm a Full-Stack MERN Developer</h3>
+<img src="https://i.pinimg.com/originals/74/61/41/746141c2d0fcd9dd5e0766ec48318625.gif" width="100%" alt="Header Banner" />
+<br/>
+<br/>
+
+<h1><img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="35px"> Bishnu Mukherjee here 🔥 !</h1>
+<h3>Namaste 🙏 I'm Bishnu Mukherjee</h3>
 
 </div>
 
----
+<br/>
 
-### 💫 About Me
+## 💫 About Me
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=BishnuMukherjee123&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="65%" valign="top">
-      <br/>
-      🌟 <b>Began the Journey with Software Development turning ideas into reality</b><br><br>
-      🌘 I work on Front-end development and web designing, while focusing heavily on Backend Architecture and APIs.<br><br>
-      🌱 I am currently diving deep into <b>TypeScript and Advanced React patterns</b>.<br><br>
-      🚀 I have hands-on experience building Full-Stack applications using the <b>MERN Stack (MongoDB, Express, React, Node.js)</b>.<br><br>
-      💬 Ask me about <b>JavaScript, Real-Time Chat apps, WebRTC, and UI/UX</b>.<br><br>
-      ⚡ Fun fact: <b>I debug with console.log 😄 and I only like perfection.</b>
-    </td>
-    <td width="35%" align="center" valign="center">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Coding Avatar" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320" alt="Coding Avatar" />
+
+🌟 **Began the Journey with Software Development building Full-Stack applications.**
+
+🌘 I work on Front-end development and web designing, while focusing heavily on Backend Architecture and APIs.
+
+🌱 I am currently diving deep into **TypeScript and Advanced React patterns**.
+
+🚀 I have hands-on experience building complex platforms using the **MERN Stack (MongoDB, Express, React, Node.js)**.
+
+💬 Ask me about **JavaScript, Real-Time WebSockets, System Architecture, and UI/UX**.
+
+⚡ Fun fact: **I debug with `console.log` 😄 and I only like perfection.**
+
+<br clear="both"/>
 
 <div align="right">
-  <b>🌟 Follow Me on:</b><br/>
+  🌟 **Follow Me on:**<br/>
   <a href="https://linkedin.com/in/bishnu-mukherjee-a235a621a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://twitter.com/BishnuMukherj11"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="https://www.instagram.com/bishnu_mukherjee7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div>
@@ -65,42 +64,38 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-<br/><br/>
+<br/>
+<br/>
 
 ### 📊 GitHub Stats
 
-<table border="0" cellpadding="0" cellspacing="0" align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=BishnuMukherjee123&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="400" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BishnuMukherjee123&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="300" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BishnuMukherjee123&show_icons=true&theme=vision-friendly-dark&bg_color=0d1117&hide_border=true&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BishnuMukherjee123&layout=compact&theme=vision-friendly-dark&bg_color=0d1117&hide_border=true&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" height="190" />
+</p>
 
 <br/>
 
-<table border="0" cellpadding="0" cellspacing="0" align="center">
+<table align="center" style="border: none; background-color: transparent;">
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="top" style="border: none;">
       
-### ⭐ Top Contributed Repos
+### ⭐ Top Contributed Repo
 
 <a href="https://github.com/BishnuMukherjee123/Talent-IQ-MERN">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BishnuMukherjee123&repo=Talent-IQ-MERN&theme=radical&hide_border=true" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BishnuMukherjee123&repo=Talent-IQ-MERN&theme=vision-friendly-dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9" width="350" />
 </a><br/>
-<a href="https://github.com/BishnuMukherjee123/chat-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BishnuMukherjee123&repo=chat-project&theme=radical&hide_border=true" width="350" />
+<a href="https://github.com/BishnuMukherjee123/Portfolio-DAZZLE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BishnuMukherjee123&repo=Portfolio-DAZZLE&theme=vision-friendly-dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9" width="350" />
 </a>
 
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="top" style="border: none;">
 
 ### 🎨 Random Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="400" />
+<br/>
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=vision-friendly-dark" alt="Random Dev Quote" width="350" />
 
 <br/><br/>
 
@@ -114,8 +109,9 @@
   </tr>
 </table>
 
-<br/><br/>
+<br/>
+<br/>
 
-<img src="https://i.pinimg.com/originals/2b/28/77/2b287754df97b973a8120ec2da892e62.gif" width="100%" alt="Cityscape Footer" />
+<img src="https://i.pinimg.com/originals/82/72/78/82727877207c4bc11bf4a01c40f28e93.gif" width="100%" alt="Footer Banner" />
 
 </div>
