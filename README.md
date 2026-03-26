@@ -14,35 +14,29 @@
 ## 💫 About Me
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=BishnuMukherjee123&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=BishnuMukherjee123&label=SYSTEM%20TRAFFIC&color=00f2ff&style=flat-square" alt="Profile Views" />
 </p>
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320" alt="Coding Avatar" />
+<p align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94bm96Ym96Ym96Ym96Ym96Ym96Ym96Ym96Ym96Ym96JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/L1T8I3sPBRF88lFkXW/giphy.gif" width="300" align="right" />
+</p>
 
-🌟 **Began the Journey with Software Development building Full-Stack applications.**
+### 🚀 MISSION:_BUILD_SCALABLE_SYSTEMS
 
-🌘 I work on Front-end development and web designing, while focusing heavily on Backend Architecture and APIs.
-
-🌱 I am currently diving deep into **TypeScript and Advanced React patterns**.
-
-🚀 I have hands-on experience building complex platforms using the **MERN Stack (MongoDB, Express, React, Node.js)**.
-
-💬 Ask me about **JavaScript, Real-Time WebSockets, System Architecture, and UI/UX**.
-
-⚡ Fun fact: **I debug with `console.log` 😄 and I only like perfection.**
-
-<br clear="both"/>
-
-<div align="right">
-  🌟 **Follow Me on:**<br/>
-  <a href="https://linkedin.com/in/bishnu-mukherjee-a235a621a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/BishnuMukherj11"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://www.instagram.com/bishnu_mukherjee7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</div>
+* 🌟 **GENESIS:** Started the journey by engineering high-performance web applications.
+* 🌘 **FRONTEND:** Crafting pixel-perfect UIs with **React & Tailwind CSS**.
+* ⚙️ **BACKEND:** Architecting robust APIs using **Node.js, Express, and MongoDB**.
+* 🌱 **EVOLUTION:** Currently mastering **TypeScript** for type-safe ecosystem development.
+* 💬 **INTEL:** Ask me about **WebSockets, MERN, or System Design**.
+* ⚡ **REALITY:** I debug with `console.log` and strive for pixel perfection.
 
 <br/>
 
-<div align="center">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,tailwind,figma&perline=8" />
+</p>
+
+<br clear="right"/>
 
 ### 💻 Languages & Tools I Have Placed My Hands On
 
