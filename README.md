@@ -73,9 +73,3 @@
 
 <br/>
 
-<table align="center" style="border: none; background-color: transparent;">
-  <tr>
-    <td width="50%" align="center" valign="top" style="border: none;"></tr>
-  </tr>
-</table>
-
