@@ -32,10 +32,6 @@
 
 <br/>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,tailwind,figma&perline=8" />
-</p>
-
 <br clear="right"/>
 
 ### 💻 Languages & Tools I Have Placed My Hands On
